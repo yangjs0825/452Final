@@ -1,9 +1,9 @@
 # 452Final
 Final project for 452
-The program is used to collection the deals information and sort in a data frames.
-In this project, there are two parts:
-* Collection deals information from UNIQLO, by using filter to get the men or women deals information.
-* Collection deals information from Slickdeals
+My final project is about building a program to collect the deals information I am interested in. Based on my shopping experience and my interested products, I decide to make this program to collect the deals information from two different websites for myself:
+ * one is a general deals information post website which is Slickdeals。
+ * the other one is UNIQLO. 
+ For UNIQLO, it owns the same format of deals information for different categories. I can use the same process to deal with the different categories.
 
 The document:
  * Python code
